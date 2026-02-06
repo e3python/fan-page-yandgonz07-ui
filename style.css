@@ -1,0 +1,14 @@
+img {
+    width: 235px;
+    border: solid 2px black;
+}
+
+.image-container {
+    display: flex;
+    gap: 20px;
+}
+
+body {
+    background-color: rgb(150, 149, 149) ;
+    font-family: cursive;
+}
